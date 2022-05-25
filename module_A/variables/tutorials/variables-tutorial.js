@@ -5,3 +5,4 @@ myCity = "Porto";
 
 console.log(myName);
 console.log(myCity);
+
